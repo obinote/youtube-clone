@@ -19,16 +19,18 @@ export const categories = [
 export const videos = [
   {
     id: "1",
-    title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
+    title: "Building a YouTube Thumbnail with Tailwind CSS",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
-      profileUrl: "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      name: "Tailwind Labs",
+      id: "TailwindLabs",
+      profileUrl:
+        "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s88-c-k-c0x00ffffff-no-rj",
     },
     views: 222536,
-    postedAt: new Date("2023-08-29"),
+    postedAt: new Date("2022-08-29"),
     duration: 938,
-    thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/qyBexrnBz_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy19Yh_hNrt__YUeERHE__59heRA",
     videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
   {
@@ -89,47 +91,47 @@ export const videos = [
   },
   {
     id: "6",
-    title: "I Got Laid Off...",
+    title: "How to Use Custom Fonts with Tailwind CSS",
     channel: {
-      name: "Caleb Curry",
-      id: "CalebCurry",
+      name: "Tailwind Labs",
+      id: "TailwindLabs",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s88-c-k-c0x00ffffff-no-rj",
     },
     views: 10340,
-    postedAt: new Date("2023-03-03"),
-    duration: 54,
-    thumbnailUrl: "https://i.ytimg.com/vi/i2JVQdLnkAY/maxresdefault.jpg",
+    postedAt: new Date("2021-06-29"),
+    duration: 700,
+    thumbnailUrl: "https://i.ytimg.com/vi/sOnBG2wUm1s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGyCUaEExWhCkUjVKmREf1xmQOug",
     videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
   {
     id: "7",
-    title: "Tails OS in 100 Seconds",
+    title: "Ripple - Everyday | DnB | NCS - Copyright Free Music",
     channel: {
-      name: "Fireship",
-      id: "Fireship",
+      name: "NoCopyrightSounds",
+      id: "NoCopyrightSounds",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/YIBi8NVC87fMfJHfQ2O0dyzjis7tUlO7VqWLhk1lq1fkIOQTrpX_Ip7G6S_u0IJosXYSe_Z9=s176-c-k-c0x00ffffff-no-rj",
     },
     views: 10323340,
     postedAt: new Date("2023-08-09"),
     duration: 100,
-    thumbnailUrl: "https://i.ytimg.com/vi/mVKAyw0xqxw/maxresdefault.jpg",
+    thumbnailUrl: "https://i.ytimg.com/vi/9SRDTWUvucQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpAymIqE931dUxAYHyV3ONS3fIkg",
     videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
   {
     id: "8",
-    title: "Zig in 100 Seconds",
+    title: "Zeli - Only The Fallen | Techno | NCS - Copyright Free Music",
     channel: {
-      name: "Fireship",
-      id: "Fireship",
+      name: "NoCopyrightSounds",
+      id: "NoCopyrightSounds",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/YIBi8NVC87fMfJHfQ2O0dyzjis7tUlO7VqWLhk1lq1fkIOQTrpX_Ip7G6S_u0IJosXYSe_Z9=s176-c-k-c0x00ffffff-no-rj",
     },
     views: 20323340,
     postedAt: new Date("2023-09-09"),
     duration: 105,
-    thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    thumbnailUrl: "https://i.ytimg.com/vi/HipT91U3ujA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa0hGWX8KxyzVOLJxA-_4SXtZDmQ",
     videoUrl: "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
 ];
