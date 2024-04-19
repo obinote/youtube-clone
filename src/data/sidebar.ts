@@ -25,22 +25,14 @@ export const subscriptions = [
   },
   {
     channelName: "Deddy Corbuzier",
-    id: "DeddyCorbuzier",
+    id: "corbuzier",
     imgUrl:
       "https://yt3.ggpht.com/EreG54tr2IsMffREgcPadhe6zjU_VADjH5TkJAlAU-s2AWtuSYyR0ys5tKbtN7TIIPZC0oQWgE8=s88-c-k-c0x00ffffff-no-rj",
   },
   {
     channelName: "Dr. Indrawan Nugroho",
-    id: "Dr.IndrawanNugroho",
+    id: "IndrawanNugroho",
     imgUrl:
       "https://yt3.ggpht.com/dSqSLtIkMBMpxGhdxU8pB4XU2uSevtNKue8dRNQmExmYy6qzawGz0gkQ57QShDhr6N23e2JtBA=s88-c-k-c0x00ffffff-no-rj",
   },
-]
-
-export const playlists = [
-  { id: "1", name: "Frontend & Backend" },
-  { id: "2", name: "Favorites" },
-  { id: "3", name: "React" },
-  { id: "4", name: "Non-Dev" },
-  { id: "5", name: "TypeScript" },
 ]
