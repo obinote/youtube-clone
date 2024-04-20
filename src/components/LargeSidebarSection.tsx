@@ -26,7 +26,7 @@ const LargeSidebarSection: React.FC<LargeSidebarSectionProps> = ({
       {title && (
         <div className="ml-4 mt-2 text-lg mb-1 flex items-center gap-2 flex-shrink-0">
           <div>{title}</div>
-          {Icon && <Icon className="size-4" />}
+          {Icon && <Icon className="size-[19px]" />}
         </div>
       )}
       {visibleChildren}
